@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "家用路由器中一些漏洞总结"
+date:   2019-04-20
+categories: 方法概括
+---
+
+
